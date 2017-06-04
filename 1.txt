@@ -1,0 +1,3 @@
+xelatex resume.tex % 编译英文简历
+xelatex resume_photo.tex % 编译带照片的简历
+xelatex resume-zh_CN.tex % 编译中文简历
